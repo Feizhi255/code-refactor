@@ -2,7 +2,7 @@
 
 This site has been changed to meet web accessibility standards for people with disabilities and socio-economic restrictions.
 
-![Application landing page](https://Feizhi255.github.io/code-refactor/assests/images/2020-07-24.png)
+![Application landing page](https://feizhi255.github.io/code-refactor/assests/images/2020-07-24.png)
 
 Link to the live site: [Code refactor](https://feizhi255.github.io/code-refactor/)
 
